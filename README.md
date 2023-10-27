@@ -16,7 +16,6 @@
 - 🔭 I’m currently working on [Laravel](http://laravel.com)
 - 💬 Ask me about Laravel or any tech related stuff.
 - 📫 How to reach me: [LinkedIn - @kgurjar1947](https://www.linkedin.com/in/kgurjar1947)
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 [![Twitter: HardikSavani19](https://img.shields.io/twitter/follow/kgurjar1947?style=social)](https://twitter.com/kgurjar1947)
