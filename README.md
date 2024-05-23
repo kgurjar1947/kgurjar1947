@@ -12,7 +12,6 @@
 <br/>
 <br/>
 
-- 🔭 Founder of [FoxGeek Technologies Pvt Ltd](https://www.foxgeek.in)
 - 🔭 I’m currently working on [Laravel](http://laravel.com)
 - 💬 Ask me about Laravel or any tech related stuff.
 - 📫 How to reach me: [LinkedIn - @kgurjar1947](https://www.linkedin.com/in/kgurjar1947)
